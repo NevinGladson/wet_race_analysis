@@ -14,6 +14,18 @@ This project investigates the effect of **wet weather conditions** and **pit sto
 
 
 ---
+```
+├── scripts/
+│ └── data_collection.py # Code to fetch & save data using FastF1
+│
+├── notebooks/
+|└── wet_race.ipynb # Visualizations, scoring, and insights
+│
+├── data/
+│ └── f1_ground_effect_results.csv
+
+```
+---
 
 ## 📊 Key Findings
 
